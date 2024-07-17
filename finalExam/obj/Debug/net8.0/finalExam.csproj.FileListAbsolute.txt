@@ -1,0 +1,14 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\finalExam\bin\Debug\net8.0\finalExam.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\finalExam\bin\Debug\net8.0\finalExam.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\finalExam\bin\Debug\net8.0\finalExam.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\finalExam\bin\Debug\net8.0\finalExam.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\finalExam\bin\Debug\net8.0\finalExam.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\finalExam\obj\Debug\net8.0\finalExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\finalExam\obj\Debug\net8.0\finalExam.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\finalExam\obj\Debug\net8.0\finalExam.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\finalExam\obj\Debug\net8.0\finalExam.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\finalExam\obj\Debug\net8.0\finalExam.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\finalExam\obj\Debug\net8.0\refint\finalExam.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\finalExam\obj\Debug\net8.0\finalExam.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\finalExam\obj\Debug\net8.0\finalExam.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\finalExam\obj\Debug\net8.0\ref\finalExam.dll

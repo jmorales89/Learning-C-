@@ -1,0 +1,14 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\studentGrading\bin\Debug\net8.0\studentGrading.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\studentGrading\bin\Debug\net8.0\studentGrading.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\studentGrading\bin\Debug\net8.0\studentGrading.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\studentGrading\bin\Debug\net8.0\studentGrading.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\studentGrading\bin\Debug\net8.0\studentGrading.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\studentGrading\obj\Debug\net8.0\studentGrading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\studentGrading\obj\Debug\net8.0\studentGrading.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\studentGrading\obj\Debug\net8.0\studentGrading.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\studentGrading\obj\Debug\net8.0\studentGrading.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\studentGrading\obj\Debug\net8.0\studentGrading.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\studentGrading\obj\Debug\net8.0\refint\studentGrading.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\studentGrading\obj\Debug\net8.0\studentGrading.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\studentGrading\obj\Debug\net8.0\studentGrading.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\studentGrading\obj\Debug\net8.0\ref\studentGrading.dll

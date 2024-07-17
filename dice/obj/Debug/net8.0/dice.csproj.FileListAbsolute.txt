@@ -1,0 +1,14 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\dice\bin\Debug\net8.0\dice.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\dice\bin\Debug\net8.0\dice.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\dice\bin\Debug\net8.0\dice.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\dice\bin\Debug\net8.0\dice.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\dice\bin\Debug\net8.0\dice.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\dice\obj\Debug\net8.0\dice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\dice\obj\Debug\net8.0\dice.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\dice\obj\Debug\net8.0\dice.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\dice\obj\Debug\net8.0\dice.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\dice\obj\Debug\net8.0\dice.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\dice\obj\Debug\net8.0\refint\dice.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\dice\obj\Debug\net8.0\dice.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\dice\obj\Debug\net8.0\dice.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\dice\obj\Debug\net8.0\ref\dice.dll

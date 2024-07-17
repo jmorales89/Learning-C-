@@ -1,0 +1,14 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\findFraud\bin\Debug\net8.0\findFraud.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\findFraud\bin\Debug\net8.0\findFraud.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\findFraud\bin\Debug\net8.0\findFraud.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\findFraud\bin\Debug\net8.0\findFraud.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\findFraud\bin\Debug\net8.0\findFraud.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\findFraud\obj\Debug\net8.0\findFraud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\findFraud\obj\Debug\net8.0\findFraud.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\findFraud\obj\Debug\net8.0\findFraud.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\findFraud\obj\Debug\net8.0\findFraud.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\findFraud\obj\Debug\net8.0\findFraud.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\findFraud\obj\Debug\net8.0\refint\findFraud.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\findFraud\obj\Debug\net8.0\findFraud.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\findFraud\obj\Debug\net8.0\findFraud.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\findFraud\obj\Debug\net8.0\ref\findFraud.dll

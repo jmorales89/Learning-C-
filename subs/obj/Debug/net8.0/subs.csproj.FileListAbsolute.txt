@@ -1,0 +1,14 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\subs\obj\Debug\net8.0\subs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\subs\obj\Debug\net8.0\subs.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\subs\obj\Debug\net8.0\subs.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\subs\obj\Debug\net8.0\subs.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\subs\bin\Debug\net8.0\subs.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\subs\bin\Debug\net8.0\subs.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\subs\bin\Debug\net8.0\subs.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\subs\bin\Debug\net8.0\subs.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\subs\bin\Debug\net8.0\subs.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\subs\obj\Debug\net8.0\subs.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\subs\obj\Debug\net8.0\refint\subs.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\subs\obj\Debug\net8.0\subs.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\subs\obj\Debug\net8.0\subs.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\subs\obj\Debug\net8.0\ref\subs.dll
