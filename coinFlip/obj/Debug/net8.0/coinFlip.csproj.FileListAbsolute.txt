@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\coinFlip\obj\Debug\net8.0\coinFlip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\coinFlip\obj\Debug\net8.0\coinFlip.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\coinFlip\obj\Debug\net8.0\coinFlip.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\coinFlip\obj\Debug\net8.0\coinFlip.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\coinFlip\obj\Debug\net8.0\coinFlip.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\coinFlip\bin\Debug\net8.0\coinFlip.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\coinFlip\bin\Debug\net8.0\coinFlip.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\coinFlip\bin\Debug\net8.0\coinFlip.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\coinFlip\bin\Debug\net8.0\coinFlip.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\coinFlip\bin\Debug\net8.0\coinFlip.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\coinFlip\obj\Debug\net8.0\coinFlip.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\coinFlip\obj\Debug\net8.0\refint\coinFlip.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\coinFlip\obj\Debug\net8.0\coinFlip.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\coinFlip\obj\Debug\net8.0\coinFlip.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\coinFlip\obj\Debug\net8.0\ref\coinFlip.dll

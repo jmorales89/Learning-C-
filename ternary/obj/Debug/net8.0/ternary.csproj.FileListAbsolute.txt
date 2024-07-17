@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\ternary\bin\Debug\net8.0\ternary.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\ternary\bin\Debug\net8.0\ternary.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\ternary\bin\Debug\net8.0\ternary.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\ternary\bin\Debug\net8.0\ternary.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\ternary\bin\Debug\net8.0\ternary.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\ternary\obj\Debug\net8.0\ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\ternary\obj\Debug\net8.0\ternary.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\ternary\obj\Debug\net8.0\ternary.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\ternary\obj\Debug\net8.0\ternary.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\ternary\obj\Debug\net8.0\ternary.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\ternary\obj\Debug\net8.0\ternary.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\ternary\obj\Debug\net8.0\refint\ternary.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\ternary\obj\Debug\net8.0\ternary.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\ternary\obj\Debug\net8.0\ternary.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\ternary\obj\Debug\net8.0\ref\ternary.dll

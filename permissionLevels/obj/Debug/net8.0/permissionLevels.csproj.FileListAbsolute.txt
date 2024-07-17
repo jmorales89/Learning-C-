@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\permissionLevels\bin\Debug\net8.0\permissionLevels.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\permissionLevels\bin\Debug\net8.0\permissionLevels.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\permissionLevels\bin\Debug\net8.0\permissionLevels.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\permissionLevels\bin\Debug\net8.0\permissionLevels.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\permissionLevels\bin\Debug\net8.0\permissionLevels.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\permissionLevels\obj\Debug\net8.0\permissionLevels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\permissionLevels\obj\Debug\net8.0\permissionLevels.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\permissionLevels\obj\Debug\net8.0\permissionLevels.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\permissionLevels\obj\Debug\net8.0\permissionLevels.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\permissionLevels\obj\Debug\net8.0\permissionLevels.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\permissionLevels\obj\Debug\net8.0\permissionLevels.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\permissionLevels\obj\Debug\net8.0\refint\permissionLevels.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\permissionLevels\obj\Debug\net8.0\permissionLevels.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\permissionLevels\obj\Debug\net8.0\permissionLevels.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\permissionLevels\obj\Debug\net8.0\ref\permissionLevels.dll

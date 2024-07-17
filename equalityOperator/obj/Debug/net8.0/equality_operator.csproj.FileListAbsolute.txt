@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\equalityOperator\obj\Debug\net8.0\equality_operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\equalityOperator\obj\Debug\net8.0\equality_operator.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\equalityOperator\obj\Debug\net8.0\equality_operator.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\equalityOperator\obj\Debug\net8.0\equality_operator.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\equalityOperator\obj\Debug\net8.0\equality_operator.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\equalityOperator\bin\Debug\net8.0\equality_operator.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\equalityOperator\bin\Debug\net8.0\equality_operator.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\equalityOperator\bin\Debug\net8.0\equality_operator.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\equalityOperator\bin\Debug\net8.0\equality_operator.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\equalityOperator\bin\Debug\net8.0\equality_operator.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\equalityOperator\obj\Debug\net8.0\equality_operator.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\equalityOperator\obj\Debug\net8.0\refint\equality_operator.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\equalityOperator\obj\Debug\net8.0\equality_operator.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\equalityOperator\obj\Debug\net8.0\equality_operator.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\equalityOperator\obj\Debug\net8.0\ref\equality_operator.dll
