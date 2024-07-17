@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\challangeRewriteSwitch\obj\Debug\net8.0\challangeRewriteSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\challangeRewriteSwitch\obj\Debug\net8.0\challangeRewriteSwitch.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\challangeRewriteSwitch\obj\Debug\net8.0\challangeRewriteSwitch.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\challangeRewriteSwitch\obj\Debug\net8.0\challangeRewriteSwitch.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\challangeRewriteSwitch\obj\Debug\net8.0\challangeRewriteSwitch.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\challangeRewriteSwitch\bin\Debug\net8.0\challangeRewriteSwitch.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\challangeRewriteSwitch\bin\Debug\net8.0\challangeRewriteSwitch.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\challangeRewriteSwitch\bin\Debug\net8.0\challangeRewriteSwitch.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\challangeRewriteSwitch\bin\Debug\net8.0\challangeRewriteSwitch.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\challangeRewriteSwitch\bin\Debug\net8.0\challangeRewriteSwitch.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\challangeRewriteSwitch\obj\Debug\net8.0\challangeRewriteSwitch.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\challangeRewriteSwitch\obj\Debug\net8.0\refint\challangeRewriteSwitch.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\challangeRewriteSwitch\obj\Debug\net8.0\challangeRewriteSwitch.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\challangeRewriteSwitch\obj\Debug\net8.0\challangeRewriteSwitch.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\challangeRewriteSwitch\obj\Debug\net8.0\ref\challangeRewriteSwitch.dll

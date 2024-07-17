@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\scope\bin\Debug\net8.0\scope.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\scope\bin\Debug\net8.0\scope.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\scope\bin\Debug\net8.0\scope.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\scope\bin\Debug\net8.0\scope.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\scope\bin\Debug\net8.0\scope.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\scope\obj\Debug\net8.0\scope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\scope\obj\Debug\net8.0\scope.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\scope\obj\Debug\net8.0\scope.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\scope\obj\Debug\net8.0\scope.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\scope\obj\Debug\net8.0\scope.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\scope\obj\Debug\net8.0\scope.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\scope\obj\Debug\net8.0\refint\scope.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\scope\obj\Debug\net8.0\scope.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\scope\obj\Debug\net8.0\scope.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\scope\obj\Debug\net8.0\ref\scope.dll

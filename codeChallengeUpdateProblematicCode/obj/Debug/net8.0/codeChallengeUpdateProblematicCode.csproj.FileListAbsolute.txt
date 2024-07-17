@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\codeChallengeUpdateProblematicCode\obj\Debug\net8.0\codeChallengeUpdateProblematicCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\codeChallengeUpdateProblematicCode\obj\Debug\net8.0\codeChallengeUpdateProblematicCode.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\codeChallengeUpdateProblematicCode\obj\Debug\net8.0\codeChallengeUpdateProblematicCode.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\codeChallengeUpdateProblematicCode\obj\Debug\net8.0\codeChallengeUpdateProblematicCode.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\codeChallengeUpdateProblematicCode\obj\Debug\net8.0\codeChallengeUpdateProblematicCode.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\codeChallengeUpdateProblematicCode\bin\Debug\net8.0\codeChallengeUpdateProblematicCode.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\codeChallengeUpdateProblematicCode\bin\Debug\net8.0\codeChallengeUpdateProblematicCode.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\codeChallengeUpdateProblematicCode\bin\Debug\net8.0\codeChallengeUpdateProblematicCode.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\codeChallengeUpdateProblematicCode\bin\Debug\net8.0\codeChallengeUpdateProblematicCode.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\codeChallengeUpdateProblematicCode\bin\Debug\net8.0\codeChallengeUpdateProblematicCode.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\codeChallengeUpdateProblematicCode\obj\Debug\net8.0\codeChallengeUpdateProblematicCode.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\codeChallengeUpdateProblematicCode\obj\Debug\net8.0\refint\codeChallengeUpdateProblematicCode.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\codeChallengeUpdateProblematicCode\obj\Debug\net8.0\codeChallengeUpdateProblematicCode.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\codeChallengeUpdateProblematicCode\obj\Debug\net8.0\codeChallengeUpdateProblematicCode.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\codeChallengeUpdateProblematicCode\obj\Debug\net8.0\ref\codeChallengeUpdateProblematicCode.dll
