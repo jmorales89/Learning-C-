@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\fizzBuzz\bin\Debug\net8.0\fizzBuzz.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\fizzBuzz\bin\Debug\net8.0\fizzBuzz.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\fizzBuzz\bin\Debug\net8.0\fizzBuzz.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\fizzBuzz\bin\Debug\net8.0\fizzBuzz.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\fizzBuzz\bin\Debug\net8.0\fizzBuzz.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\fizzBuzz\obj\Debug\net8.0\fizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\fizzBuzz\obj\Debug\net8.0\fizzBuzz.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\fizzBuzz\obj\Debug\net8.0\fizzBuzz.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\fizzBuzz\obj\Debug\net8.0\fizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\fizzBuzz\obj\Debug\net8.0\fizzBuzz.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\fizzBuzz\obj\Debug\net8.0\fizzBuzz.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\fizzBuzz\obj\Debug\net8.0\refint\fizzBuzz.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\fizzBuzz\obj\Debug\net8.0\fizzBuzz.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\fizzBuzz\obj\Debug\net8.0\fizzBuzz.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\fizzBuzz\obj\Debug\net8.0\ref\fizzBuzz.dll
