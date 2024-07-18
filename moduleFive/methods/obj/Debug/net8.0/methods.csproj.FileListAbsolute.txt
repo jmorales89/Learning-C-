@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\methods\obj\Debug\net8.0\methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\methods\obj\Debug\net8.0\methods.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\methods\obj\Debug\net8.0\methods.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\methods\obj\Debug\net8.0\methods.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\methods\obj\Debug\net8.0\methods.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\methods\bin\Debug\net8.0\methods.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\methods\bin\Debug\net8.0\methods.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\methods\bin\Debug\net8.0\methods.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\methods\bin\Debug\net8.0\methods.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\methods\bin\Debug\net8.0\methods.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\methods\obj\Debug\net8.0\methods.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\methods\obj\Debug\net8.0\refint\methods.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\methods\obj\Debug\net8.0\methods.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\methods\obj\Debug\net8.0\methods.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\methods\obj\Debug\net8.0\ref\methods.dll

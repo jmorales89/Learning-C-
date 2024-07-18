@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\guidedProject\bin\Debug\net8.0\guidedProject.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\guidedProject\bin\Debug\net8.0\guidedProject.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\guidedProject\bin\Debug\net8.0\guidedProject.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\guidedProject\bin\Debug\net8.0\guidedProject.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\guidedProject\bin\Debug\net8.0\guidedProject.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\guidedProject\obj\Debug\net8.0\guidedProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\guidedProject\obj\Debug\net8.0\guidedProject.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\guidedProject\obj\Debug\net8.0\guidedProject.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\guidedProject\obj\Debug\net8.0\guidedProject.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\guidedProject\obj\Debug\net8.0\guidedProject.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\guidedProject\obj\Debug\net8.0\guidedProject.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\guidedProject\obj\Debug\net8.0\refint\guidedProject.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\guidedProject\obj\Debug\net8.0\guidedProject.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\guidedProject\obj\Debug\net8.0\guidedProject.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\guidedProject\obj\Debug\net8.0\ref\guidedProject.dll

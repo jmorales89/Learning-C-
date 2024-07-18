@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\indexing\bin\Debug\net8.0\indexing.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\indexing\bin\Debug\net8.0\indexing.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\indexing\bin\Debug\net8.0\indexing.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\indexing\bin\Debug\net8.0\indexing.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\indexing\bin\Debug\net8.0\indexing.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\indexing\obj\Debug\net8.0\indexing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\indexing\obj\Debug\net8.0\indexing.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\indexing\obj\Debug\net8.0\indexing.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\indexing\obj\Debug\net8.0\indexing.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\indexing\obj\Debug\net8.0\indexing.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\indexing\obj\Debug\net8.0\indexing.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\indexing\obj\Debug\net8.0\refint\indexing.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\indexing\obj\Debug\net8.0\indexing.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\indexing\obj\Debug\net8.0\indexing.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\indexing\obj\Debug\net8.0\ref\indexing.dll

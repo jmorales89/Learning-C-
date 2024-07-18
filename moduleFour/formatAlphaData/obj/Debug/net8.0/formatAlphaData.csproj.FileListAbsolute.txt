@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\formatAlphaData\bin\Debug\net8.0\formatAlphaData.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\formatAlphaData\bin\Debug\net8.0\formatAlphaData.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\formatAlphaData\bin\Debug\net8.0\formatAlphaData.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\formatAlphaData\bin\Debug\net8.0\formatAlphaData.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\formatAlphaData\bin\Debug\net8.0\formatAlphaData.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\formatAlphaData\obj\Debug\net8.0\formatAlphaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\formatAlphaData\obj\Debug\net8.0\formatAlphaData.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\formatAlphaData\obj\Debug\net8.0\formatAlphaData.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\formatAlphaData\obj\Debug\net8.0\formatAlphaData.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\formatAlphaData\obj\Debug\net8.0\formatAlphaData.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\formatAlphaData\obj\Debug\net8.0\formatAlphaData.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\formatAlphaData\obj\Debug\net8.0\refint\formatAlphaData.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\formatAlphaData\obj\Debug\net8.0\formatAlphaData.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\formatAlphaData\obj\Debug\net8.0\formatAlphaData.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\formatAlphaData\obj\Debug\net8.0\ref\formatAlphaData.dll
