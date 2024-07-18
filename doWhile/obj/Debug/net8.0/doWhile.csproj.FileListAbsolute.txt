@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\doWhile\bin\Debug\net8.0\doWhile.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\doWhile\bin\Debug\net8.0\doWhile.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\doWhile\bin\Debug\net8.0\doWhile.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\doWhile\bin\Debug\net8.0\doWhile.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\doWhile\bin\Debug\net8.0\doWhile.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\doWhile\obj\Debug\net8.0\doWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\doWhile\obj\Debug\net8.0\doWhile.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\doWhile\obj\Debug\net8.0\doWhile.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\doWhile\obj\Debug\net8.0\doWhile.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\doWhile\obj\Debug\net8.0\doWhile.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\doWhile\obj\Debug\net8.0\doWhile.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\doWhile\obj\Debug\net8.0\refint\doWhile.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\doWhile\obj\Debug\net8.0\doWhile.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\doWhile\obj\Debug\net8.0\doWhile.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\doWhile\obj\Debug\net8.0\ref\doWhile.dll
