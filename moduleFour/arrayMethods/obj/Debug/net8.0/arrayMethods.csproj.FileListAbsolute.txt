@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\arrayMethods\bin\Debug\net8.0\arrayMethods.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\arrayMethods\bin\Debug\net8.0\arrayMethods.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\arrayMethods\bin\Debug\net8.0\arrayMethods.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\arrayMethods\bin\Debug\net8.0\arrayMethods.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\arrayMethods\bin\Debug\net8.0\arrayMethods.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\arrayMethods\obj\Debug\net8.0\arrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\arrayMethods\obj\Debug\net8.0\arrayMethods.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\arrayMethods\obj\Debug\net8.0\arrayMethods.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\arrayMethods\obj\Debug\net8.0\arrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\arrayMethods\obj\Debug\net8.0\arrayMethods.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\arrayMethods\obj\Debug\net8.0\arrayMethods.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\arrayMethods\obj\Debug\net8.0\refint\arrayMethods.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\arrayMethods\obj\Debug\net8.0\arrayMethods.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\arrayMethods\obj\Debug\net8.0\arrayMethods.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\arrayMethods\obj\Debug\net8.0\ref\arrayMethods.dll

@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\casting\obj\Debug\net8.0\casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\casting\obj\Debug\net8.0\casting.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\casting\obj\Debug\net8.0\casting.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\casting\obj\Debug\net8.0\casting.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\casting\obj\Debug\net8.0\casting.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\casting\bin\Debug\net8.0\casting.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\casting\bin\Debug\net8.0\casting.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\casting\bin\Debug\net8.0\casting.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\casting\bin\Debug\net8.0\casting.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\casting\bin\Debug\net8.0\casting.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\casting\obj\Debug\net8.0\casting.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\casting\obj\Debug\net8.0\refint\casting.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\casting\obj\Debug\net8.0\casting.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\casting\obj\Debug\net8.0\casting.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\casting\obj\Debug\net8.0\ref\casting.dll
