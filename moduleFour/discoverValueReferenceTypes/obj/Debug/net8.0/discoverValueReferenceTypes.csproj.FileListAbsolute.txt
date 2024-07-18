@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\discoverValueReferenceTypes\bin\Debug\net8.0\discoverValueReferenceTypes.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\discoverValueReferenceTypes\bin\Debug\net8.0\discoverValueReferenceTypes.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\discoverValueReferenceTypes\bin\Debug\net8.0\discoverValueReferenceTypes.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\discoverValueReferenceTypes\bin\Debug\net8.0\discoverValueReferenceTypes.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\discoverValueReferenceTypes\bin\Debug\net8.0\discoverValueReferenceTypes.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\discoverValueReferenceTypes\obj\Debug\net8.0\discoverValueReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\discoverValueReferenceTypes\obj\Debug\net8.0\discoverValueReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\discoverValueReferenceTypes\obj\Debug\net8.0\discoverValueReferenceTypes.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\discoverValueReferenceTypes\obj\Debug\net8.0\discoverValueReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\discoverValueReferenceTypes\obj\Debug\net8.0\discoverValueReferenceTypes.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\discoverValueReferenceTypes\obj\Debug\net8.0\discoverValueReferenceTypes.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\discoverValueReferenceTypes\obj\Debug\net8.0\refint\discoverValueReferenceTypes.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\discoverValueReferenceTypes\obj\Debug\net8.0\discoverValueReferenceTypes.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\discoverValueReferenceTypes\obj\Debug\net8.0\discoverValueReferenceTypes.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\discoverValueReferenceTypes\obj\Debug\net8.0\ref\discoverValueReferenceTypes.dll
