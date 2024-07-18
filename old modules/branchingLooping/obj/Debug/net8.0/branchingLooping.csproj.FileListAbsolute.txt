@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\branchingLooping\bin\Debug\net8.0\branchingLooping.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\branchingLooping\bin\Debug\net8.0\branchingLooping.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\branchingLooping\bin\Debug\net8.0\branchingLooping.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\branchingLooping\bin\Debug\net8.0\branchingLooping.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\branchingLooping\bin\Debug\net8.0\branchingLooping.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\branchingLooping\obj\Debug\net8.0\branchingLooping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\branchingLooping\obj\Debug\net8.0\branchingLooping.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\branchingLooping\obj\Debug\net8.0\branchingLooping.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\branchingLooping\obj\Debug\net8.0\branchingLooping.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\branchingLooping\obj\Debug\net8.0\branchingLooping.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\branchingLooping\obj\Debug\net8.0\branchingLooping.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\branchingLooping\obj\Debug\net8.0\refint\branchingLooping.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\branchingLooping\obj\Debug\net8.0\branchingLooping.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\branchingLooping\obj\Debug\net8.0\branchingLooping.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\branchingLooping\obj\Debug\net8.0\ref\branchingLooping.dll
