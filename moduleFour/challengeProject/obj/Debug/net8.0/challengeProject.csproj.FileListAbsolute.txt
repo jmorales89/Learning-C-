@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\challengeProject\bin\Debug\net8.0\challengeProject.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\challengeProject\bin\Debug\net8.0\challengeProject.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\challengeProject\bin\Debug\net8.0\challengeProject.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\challengeProject\bin\Debug\net8.0\challengeProject.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\challengeProject\bin\Debug\net8.0\challengeProject.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\challengeProject\obj\Debug\net8.0\challengeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\challengeProject\obj\Debug\net8.0\challengeProject.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\challengeProject\obj\Debug\net8.0\challengeProject.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\challengeProject\obj\Debug\net8.0\challengeProject.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\challengeProject\obj\Debug\net8.0\challengeProject.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\challengeProject\obj\Debug\net8.0\challengeProject.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\challengeProject\obj\Debug\net8.0\refint\challengeProject.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\challengeProject\obj\Debug\net8.0\challengeProject.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\challengeProject\obj\Debug\net8.0\challengeProject.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFour\challengeProject\obj\Debug\net8.0\ref\challengeProject.dll
