@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\params\bin\Debug\net8.0\params.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\params\bin\Debug\net8.0\params.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\params\bin\Debug\net8.0\params.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\params\bin\Debug\net8.0\params.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\params\bin\Debug\net8.0\params.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\params\obj\Debug\net8.0\params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\params\obj\Debug\net8.0\params.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\params\obj\Debug\net8.0\params.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\params\obj\Debug\net8.0\params.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\params\obj\Debug\net8.0\params.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\params\obj\Debug\net8.0\params.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\params\obj\Debug\net8.0\refint\params.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\params\obj\Debug\net8.0\params.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\params\obj\Debug\net8.0\params.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\params\obj\Debug\net8.0\ref\params.dll
