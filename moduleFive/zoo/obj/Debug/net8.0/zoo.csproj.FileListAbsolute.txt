@@ -1,0 +1,15 @@
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\zoo\bin\Debug\net8.0\zoo.exe
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\zoo\bin\Debug\net8.0\zoo.deps.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\zoo\bin\Debug\net8.0\zoo.runtimeconfig.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\zoo\bin\Debug\net8.0\zoo.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\zoo\bin\Debug\net8.0\zoo.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\zoo\obj\Debug\net8.0\zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\zoo\obj\Debug\net8.0\zoo.AssemblyInfoInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\zoo\obj\Debug\net8.0\zoo.AssemblyInfo.cs
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\zoo\obj\Debug\net8.0\zoo.csproj.CoreCompileInputs.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\zoo\obj\Debug\net8.0\zoo.sourcelink.json
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\zoo\obj\Debug\net8.0\zoo.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\zoo\obj\Debug\net8.0\refint\zoo.dll
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\zoo\obj\Debug\net8.0\zoo.pdb
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\zoo\obj\Debug\net8.0\zoo.genruntimeconfig.cache
+C:\Users\jmm23\OneDrive\Desktop\csharpProjects\TestProject\moduleFive\zoo\obj\Debug\net8.0\ref\zoo.dll
